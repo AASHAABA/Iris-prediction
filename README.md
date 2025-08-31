@@ -1,1 +1,2 @@
-# Iris-prediction
+### Having been one of the most classic beginner datasets and a great way to explore supervised machine learning and classification. This project was inspired by Jason Brownlee’s book Machine Learning Mastery with Python. Some code snippets and ideas were adapted from his work to aid learning and implementation.
+### The Iris dataset used was introduced by Ronald Fisher in 1936 and is available via the UCI Repository and scikit-learn. Special thanks to the open-source community for tools like pandas, numpy, matplotlib, seaborn, and scikit-learn.
